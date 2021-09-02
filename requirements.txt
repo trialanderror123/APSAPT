@@ -1,0 +1,5 @@
+pandas
+sklearn
+transformers==4.3.3
+tqdm
+torch
