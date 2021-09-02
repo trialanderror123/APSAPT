@@ -1,4 +1,4 @@
-# ICDM
+# APSAPT - Automated Pipeline for Sentiment Analysis of Political Tweets
 
 ## Directory Structure
 
@@ -37,10 +37,6 @@
 │      │   ├── predict.py
 │      │   └── train.py
 │      │
-│      └── visualization   <- Scripts to create exploratory and results oriented visualizations
-│          └── visualize.py
-│
-├── api.py                  <- Flask API script
 │
 └── .gitignore
 
